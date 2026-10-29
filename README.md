@@ -1,52 +1,111 @@
 # Data Analytics Internship Projects
 
-## Overview
+## About This Repository
 
-This repository contains my weekly projects completed during my Data Analytics Internship. The projects focus on data analysis, data cleaning, data summarization, and data visualization using Microsoft Excel and Python.
+This repository contains the weekly projects completed as part of my Data Analytics Internship. It documents my practical learning and hands-on experience in data analysis, data cleaning, data manipulation, exploratory data analysis, and data visualization.
 
-## Week 1: Excel & Data Fundamentals
+The projects demonstrate how data analysis tools can be used to understand datasets, identify trends, summarize business performance, and communicate meaningful insights.
 
-### Objective
+## Internship Objectives
 
-Analyze Global Superstore sales data using Excel to understand sales performance and create a dashboard using Pivot Tables and charts.
+- Develop practical skills in data analytics.
+- Clean, organize, and analyze datasets.
+- Perform exploratory data analysis (EDA).
+- Use Python libraries for data manipulation and visualization.
+- Create dashboards and interpret business metrics.
+- Present findings and recommendations clearly.
 
-### Tasks Completed
+## Tools and Technologies
 
-* Excel formulas and functions: SUM, AVERAGE, COUNT
-* Data cleaning and summarization
-* Pivot Tables and descriptive statistics
-* Total revenue analysis
-* Sales by category
-* Yearly sales trends
-* Department-wise revenue analysis
+- **Microsoft Excel:** Data cleaning, formulas, Pivot Tables, and charts.
+- **Python:** Data analysis and automation.
+- **Pandas and NumPy:** Data manipulation and numerical analysis.
+- **Matplotlib:** Data visualization.
+- **Jupyter Notebook:** Interactive Python analysis.
+- **Microsoft Power BI:** Interactive dashboards and business reporting.
+- **Scikit-learn:** Machine learning and regression modeling.
+- **GitHub:** Project documentation and version control.
 
-**Tools:** Microsoft Excel, Pivot Tables, Charts and Data Visualization
+## Weekly Projects
 
-## Week 2: Python for Data Analysis
+### Week 1: Excel & Data Fundamentals
+**Objective:** Analyze Global Superstore sales data using Excel.
 
-### Objective
+**Key Tasks:**
+- Data cleaning and summarization.
+- Excel formulas and functions.
+- Pivot Tables and descriptive statistics.
+- Revenue and sales trend analysis.
+- Category-wise and department-wise analysis.
+- Charts and data visualization.
 
-Analyze sales data using Python and Pandas to clean, transform, summarize, and explore data.
+**Tools:** Microsoft Excel, Pivot Tables, and charts.
 
-### Tasks Completed
+### Week 2: Python for Data Analysis
+**Objective:** Analyze sales data using Python.
 
-* Loaded and inspected CSV datasets
-* Checked for missing values and duplicate records
-* Cleaned and prepared data
-* Calculated revenue by category
-* Sorted data using multiple columns
-* Generated a correlation matrix
-* Exported cleaned and summarized data into CSV files
+**Key Tasks:**
+- Load and inspect CSV datasets.
+- Perform data analysis using Python.
+- Summarize sales and business metrics.
+- Explore categories, products, and regions.
+- Organize findings for reporting.
 
-**Tools:** Python, Pandas, NumPy, Jupyter Notebook
+**Tools:** Python, Pandas, and Jupyter Notebook.
 
-## Learning Outcomes
+### Week 3: Python Data Wrangling
+**Objective:** Prepare datasets for reliable analysis.
 
-* Developed practical skills in Excel-based data analysis and dashboard creation.
-* Learned data cleaning and manipulation using Python.
-* Practiced data summarization, aggregation, and correlation analysis.
-* Improved analytical thinking and data visualization skills.
+**Key Tasks:**
+- Inspect dataset structure and data types.
+- Identify and handle missing values.
+- Detect and remove duplicate records.
+- Investigate outliers.
+- Prepare cleaned data for further analysis.
 
-## Purpose
+**Tools:** Python, Pandas, and Jupyter Notebook.
 
-To apply data analytics concepts through hands-on projects and document my learning progress during the internship.
+### Week 4: Sales Performance Analysis and Prediction
+**Objective:** Analyze sales performance, identify business trends, and predict sales using Linear Regression.
+
+**Key Tasks:**
+- Clean and explore the sales dataset.
+- Calculate key business metrics.
+- Analyze sales by country, segment, product, and year.
+- Build and evaluate a Linear Regression model.
+- Create an interactive Power BI dashboard.
+- Prepare findings, insights, and recommendations.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook, and Microsoft Power BI.
+
+**Key Deliverables:** Python notebook, cleaned dataset, Power BI dashboard, findings document, and PDF explanation report.
+
+## Key Learnings
+
+- Data cleaning and preprocessing.
+- Exploratory data analysis.
+- Data manipulation using Python.
+- Business metrics and trend analysis.
+- Data visualization and dashboard creation.
+- Basic predictive modeling and model evaluation.
+- Communicating data-driven findings.
+
+## Repository Structure
+
+- `Week1-Excel-Data-Analysis/`
+- `Week2-Python-Data-Analysis/`
+- `Week3-Python-Data-Wrangling/`
+- `Week4-Sales-Performance-Analysis/`
+
+Each weekly folder contains the relevant project files and documentation, where applicable.
+
+## Conclusion
+
+This repository represents my practical learning journey in data analytics. Through these projects, I have developed experience in preparing data, analyzing trends, building visualizations, and presenting insights to support data-driven decision-making.
+
+I will continue improving my analytical, programming, and visualization skills through further projects and practice.
+
+---
+
+**Author:** Maithili Jadhav  
+**Focus Area:** Data Analytics | Python | SQL | Data Visualization | Power BI
